@@ -1,0 +1,21 @@
+body {
+    background-color: #88c1d0;
+}
+
+@media (min-width: 1080px) and (max-width: 1480px) {
+    body {
+        background-color: #275fa0;
+    }
+}
+
+@media (min-width: 1480px) and (max-width: 1720px) {
+    body {
+        background-color: #ffca4b;
+    }
+}
+
+@media (max-width: 1280px) {
+    body {
+        background-color: #ffffff;
+    }
+}
